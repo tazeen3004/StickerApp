@@ -1,4 +1,51 @@
 {
+  "stickers" : [
+    {
+      "filename" : "shin chan.sticker"
+    },
+    {
+      "filename" : "potato.sticker"
+    },
+    {
+      "filename" : "Unknown.sticker"
+    },
+    {
+      "filename" : "boo.sticker"
+    },
+    {
+      "filename" : "meow.sticker"
+    },
+    {
+      "filename" : "mushroom.sticker"
+    },
+    {
+      "filename" : "dory.sticker"
+    },
+    {
+      "filename" : "Unknown-1.sticker"
+    },
+    {
+      "filename" : "panna cotta.sticker"
+    },
+    {
+      "filename" : "dino.sticker"
+    },
+    {
+      "filename" : "polar bear.sticker"
+    },
+    {
+      "filename" : "pikachu.sticker"
+    },
+    {
+      "filename" : "ninja.sticker"
+    },
+    {
+      "filename" : "nutella.sticker"
+    },
+    {
+      "filename" : "marshmallow.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
